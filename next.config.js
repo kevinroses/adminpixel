@@ -12,6 +12,7 @@ module.exports = withPWA({
   i18n,
   images: {
     domains: [
+      'app.camanchacapp.cl',
       'via.placeholder.com',
       'res.cloudinary.com',
       's3.amazonaws.com',
